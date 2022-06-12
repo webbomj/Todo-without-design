@@ -1,0 +1,15 @@
+.todo {
+  display: flex;
+}
+
+.todoItem {
+  color: black;
+  font-weight: bold;
+
+}
+
+.todoItemDone {
+  color: gray;
+  text-decoration: line-through;
+}
+

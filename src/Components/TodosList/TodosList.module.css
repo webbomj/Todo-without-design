@@ -1,0 +1,26 @@
+.todosMode {
+  display: flex;
+  justify-content: center;
+}
+
+.todosModeItem {
+  color: green
+}
+
+.todosModeItem:hover {
+  color: red;
+}
+
+.todosMode li {
+  list-style-type: none;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.todosMode li:hover {
+  color: red;
+}
+
+.todosModeItemActive {
+  font-weight: bold;
+}
