@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/webbomj.github.io/Todo-without-design/static/css/main.ed081500.css",
-    "main.js": "/webbomj.github.io/Todo-without-design/static/js/main.b4bb2e27.js",
-    "static/js/787.2f3f44a9.chunk.js": "/webbomj.github.io/Todo-without-design/static/js/787.2f3f44a9.chunk.js",
-    "index.html": "/webbomj.github.io/Todo-without-design/index.html",
-    "main.ed081500.css.map": "/webbomj.github.io/Todo-without-design/static/css/main.ed081500.css.map",
-    "main.b4bb2e27.js.map": "/webbomj.github.io/Todo-without-design/static/js/main.b4bb2e27.js.map",
-    "787.2f3f44a9.chunk.js.map": "/webbomj.github.io/Todo-without-design/static/js/787.2f3f44a9.chunk.js.map"
+    "main.css": "/todo-without-design/static/css/main.ed081500.css",
+    "main.js": "/todo-without-design/static/js/main.c83223e2.js",
+    "static/js/787.2f3f44a9.chunk.js": "/todo-without-design/static/js/787.2f3f44a9.chunk.js",
+    "index.html": "/todo-without-design/index.html",
+    "main.ed081500.css.map": "/todo-without-design/static/css/main.ed081500.css.map",
+    "main.c83223e2.js.map": "/todo-without-design/static/js/main.c83223e2.js.map",
+    "787.2f3f44a9.chunk.js.map": "/todo-without-design/static/js/787.2f3f44a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed081500.css",
-    "static/js/main.b4bb2e27.js"
+    "static/js/main.c83223e2.js"
   ]
 }
